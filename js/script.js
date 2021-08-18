@@ -61,6 +61,7 @@
             bam = true;
         console.log(nam && bam); // true
 
+        
         let nam = true,
             bam = false;
         console.log(nam && bam); // false
